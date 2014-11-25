@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+response = requests.post('${1:http://localhost:8000}')
+]]>
+</content>
+
+<tabTrigger>rpost</tabTrigger>
+<scope>source.python</scope>
+<description>requests.post('http://host.com')</description>
+</snippet>
