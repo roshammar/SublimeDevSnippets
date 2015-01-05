@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+import IPython; IPython.embed()
+]]>
+</content>
+
+<tabTrigger>ipython</tabTrigger>
+<scope>source.python</scope>
+<description>ipython</description>
+</snippet>
