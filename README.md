@@ -1,10 +1,11 @@
-SublimePythonSnippet
+SublimeDevSnippets
 ====================
 
-A collection of python code snippets for sublime text
+A collection of coding snippets for Sublime Text.
+Originally forked from Altynai/SublimePythonSnippet.
 
 Installation
 --------------------
-    
+
     cd "~/Library/Application Support/Sublime Text 3/Packages/User"
-    git clone git://github.com/Altynai/SublimePythonSnippet.git 
+    git clone git://github.com/roshammar/SublimeDevSnippets.git
